@@ -1,1 +1,1 @@
-# havaskor
+# havaskor bu mening birinchi proyektim
